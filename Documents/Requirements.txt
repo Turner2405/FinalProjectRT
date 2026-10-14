@@ -1,0 +1,13 @@
+1)	Food Inventory Management – Users will be able to add, edit, remove and view food items stored at home.
+
+2)	Expiry-Date Tracking – The system will record expiry/best-before dates and identify foods that need to be used soon.
+
+3)	Smart Notifications – Users receive alerts/reminders about foods approaching its expiry date and reports will be presented.
+
+4)	Recipe Recommendations – The application will recommend recipes based on the available ingredients, prioritising food that is likely to expire soon. 
+
+5)	Food Waste Tracking – Users can record food they have discarded, including relevant details such as the item and the reason for disposal.
+
+6)	Waste Analysis and Dashboard – Users can view statistics and trends relating to their food usage and waste.
+
+7)	AI Functionality – Ai can assist with food recognition from images and if foods are approaching expiry generate suitable recipes.
